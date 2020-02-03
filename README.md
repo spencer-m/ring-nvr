@@ -2,8 +2,7 @@
 Use a ring doorbell as a network video recorder. Records when motion is detected or someone presses the doorbell button.
 
 ### Getting Started
-Make sure to have Node.js installed on the computer to be used as a server for the application.
-A Ring account is needed to access your camera. A Dropbox API key is needed to be able to upload to it.
+Make sure to have Node.js installed on the computer to be used as a server for the application. Install ffmpeg so that it could handle the video streams. The command ffmpeg would need to be in the PATH. A Ring account is needed to access your camera. A Dropbox API key is needed to be able to upload to it.
 
 ### Installing
 First, download or clone the repository.
