@@ -12,8 +12,8 @@ npm install ring-client-api --save
 npm install inquirer --save
 npm install isomorphic-fetch --save
 npm install dropbox --save
+npm install log-to-file --save
 ```
-Create a folder named `recordings` on the root of the repository.
 
 ### Running the app
 Run the following command:
